@@ -10,10 +10,10 @@ Implementação de um Controlador de Domínio para gestão centralizada de ident
 * **Configuração:** Instalação do AD DS e implementação de GPO de restrição.
 * **Controle:** Bloqueio de acesso ao Painel de Controle para usuários comuns.
 
-![Configuração GPO](./img/AD%20DS%20adm.png)
+![Configuração GPO](./img/AD_DS_adm.png)
 *Legenda: Interface de Gerenciamento de Política de Grupo (GPMC).*
 
-![Bloqueio na Prática](./img/AD%20DS%20block.jpg)
+![Bloqueio na Prática](./img/AD_DS_block.jpg)
 *Legenda: Validação do bloqueio com o usuário "lucas.raraujo".*
 
 ---
@@ -23,10 +23,10 @@ Simulação do ciclo de vida de um chamado técnico utilizando o Jira Service Ma
 * **Fluxo:** Registro de incidente através do portal do cliente.
 * **Resolução:** Atendimento técnico com documentação de causa raiz no encerramento do ticket.
 
-![Portal do Cliente](./img/Jira%20client.png)
+![Portal do Cliente](./img/Jira_client.png)
 *Legenda: Chamado aberto pelo usuário relatando a restrição.*
 
-![Resolução Técnica](./img/Jira%20response.png)
+![Resolução Técnica](./img/Jira_response.png)
 *Legenda: Ticket concluído com nota técnica interna explicando a GPO.*
 
 ---
@@ -34,7 +34,7 @@ Simulação do ciclo de vida de um chamado técnico utilizando o Jira Service Ma
 ### 3. MITRE ATT&CK: Inteligência de Ameaças
 Uso do framework global para validar as táticas de defesa aplicadas no laboratório.
 
-![Mapeamento Mitre](./img/MITRE%20ATT%26CK.png)
+![Mapeamento Mitre](./img/MITRE_ATT&CK.png)
 *Legenda: Estudo das técnicas de mitigação baseada no MITRE.*
 
 ---
@@ -42,10 +42,10 @@ Uso do framework global para validar as táticas de defesa aplicadas no laborat�
 ### 4. Splunk: Monitoramento e SIEM
 Operação em ambiente de SIEM para análise de logs e criação de visualizações de segurança.
 
-![Dashboards Splunk](./img/splunk%20chart.png)
+![Dashboards Splunk](./img/splunk_chart.png)
 *Legenda: Visualização gráfica comparando tráfego de rede.*
 
-![Logs Brutos](./img/splunk%20logs.png)
+![Logs Brutos](./img/splunk_logs.png)
 *Legenda: Resultado da query estatística no Splunk.*
 
 ![Certificado THM](./img/THM.png)
