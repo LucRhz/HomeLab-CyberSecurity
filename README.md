@@ -11,10 +11,10 @@ Implementação de um Controlador de Domínio para gestão centralizada de ident
 * **Controle:** Bloqueio de acesso ao Painel de Controle para usuários comuns.
 
 ![Configuração GPO](./imgs/AD_DS_adm.png)
-*Legenda: Interface de Gerenciamento de Política de Grupo (GPMC).*
+*Interface de Gerenciamento de Política de Grupo (GPMC).*
 
 ![Bloqueio na Prática](./imgs/AD_DS_block.png)
-*Legenda: Validação do bloqueio com o usuário "lucas.raraujo".*
+*Validação do bloqueio com o usuário "lucas.raraujo".*
 
 ---
 
@@ -24,10 +24,10 @@ Simulação do ciclo de vida de um chamado técnico utilizando o Jira Service Ma
 * **Resolução:** Atendimento técnico com documentação de causa raiz no encerramento do ticket.
 
 ![Portal do Cliente](./imgs/Jira_client.png)
-*Legenda: Chamado aberto pelo usuário relatando a restrição.*
+*Chamado aberto pelo usuário relatando a restrição.*
 
 ![Resolução Técnica](./imgs/Jira_response.png)
-*Legenda: Ticket concluído com nota técnica interna explicando a GPO.*
+*Ticket concluído com nota técnica interna explicando a GPO.*
 
 ---
 
@@ -35,7 +35,7 @@ Simulação do ciclo de vida de um chamado técnico utilizando o Jira Service Ma
 Uso do framework global para validar as táticas de defesa aplicadas no laboratório.
 
 ![Mapeamento Mitre](./imgs/MITRE_ATT&CK.png)
-*Legenda: Estudo das técnicas de mitigação baseada no MITRE.*
+*Estudo das técnicas de mitigação baseada no MITRE.*
 
 ---
 
@@ -43,10 +43,10 @@ Uso do framework global para validar as táticas de defesa aplicadas no laborat�
 Operação em ambiente de SIEM para análise de logs e criação de visualizações de segurança.
 
 ![Dashboards Splunk](./imgs/splunk_chart.png)
-*Legenda: Visualização gráfica comparando tráfego de rede.*
+*Visualização gráfica comparando tráfego de rede.*
 
 ![Logs Brutos](./imgs/splunk_logs.png)
-*Legenda: Resultado da query estatística no Splunk.*
+*Resultado da query estatística no Splunk.*
 
 ![Certificado THM](./imgs/THM.png)
-*Legenda: Conclusão do treinamento prático "Splunk Basics" no TryHackMe.*
+*Conclusão do treinamento prático "Splunk Basics" no TryHackMe.*
