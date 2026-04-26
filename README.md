@@ -13,7 +13,7 @@ Implementação de um Controlador de Domínio para gestão centralizada de ident
 ![Configuração GPO](./imgs/AD_DS_adm.png)
 *Legenda: Interface de Gerenciamento de Política de Grupo (GPMC).*
 
-![Bloqueio na Prática](./imgs/AD_DS_block.jpg)
+![Bloqueio na Prática](./imgs/AD_DS_block.png)
 *Legenda: Validação do bloqueio com o usuário "lucas.raraujo".*
 
 ---
