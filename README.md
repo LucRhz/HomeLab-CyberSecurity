@@ -50,3 +50,13 @@ Operação em ambiente de SIEM para análise de logs e criação de visualizaç�
 
 ![Certificado THM](./imgs/THM.png)
 *Conclusão do treinamento prático "Splunk Basics" no TryHackMe.*
+
+---
+
+## 🧠 Competências Desenvolvidas
+
+* **Resolução de Problemas:** Diagnóstico de falhas de acesso e aplicação de contramedidas via GPO no Windows Server.
+* **Pensamento Analítico:** Mapeamento de ameaças reais utilizando frameworks globais de cibersegurança (MITRE ATT&CK).
+* **Comunicação Técnica:** Documentação detalhada de incidentes e resoluções em linguagem clara para suporte, auditoria e base de conhecimento.
+* **Gestão de Processos:** Operação sob o framework ITIL v4, focando em SLA, priorização e satisfação do usuário final.
+* **Monitoramento de Segurança:** Capacidade de extrair inteligência de logs brutos e criar visualizações para detecção de anomalias em ferramentas SIEM.
